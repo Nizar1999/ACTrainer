@@ -4,7 +4,7 @@
 
 ![Languages](https://img.shields.io/badge/-C++-%23CFACFF?style=for-the-badge&logo=cplusplus&logoColor=black) 
 
-### Outdated
+## [Outdated]
 
 # Features
 - God Mode
@@ -17,3 +17,6 @@
 
 - Give Armor
 
+# Sample Usage
+
+![Usage](./screenshots/Trainer.png)
