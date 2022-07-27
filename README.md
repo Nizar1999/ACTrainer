@@ -4,6 +4,8 @@
 
 ![Languages](https://img.shields.io/badge/-C++-%23CFACFF?style=for-the-badge&logo=cplusplus&logoColor=black) 
 
+### Outdated
+
 # Features
 - God Mode
 
