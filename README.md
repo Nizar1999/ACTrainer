@@ -9,7 +9,7 @@
 # Disclaimer
 Assault Cube is an open source game.
 
-This trainer only works and is to be used in offline mode
+This trainer is for educational purposes only.
 
 # Features
 - God Mode
