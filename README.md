@@ -4,8 +4,6 @@
 
 ![Languages](https://img.shields.io/badge/-C++-%23CFACFF?style=for-the-badge&logo=cplusplus&logoColor=black) 
 
-Game trainer for Assault Cube.
-
 # Features
 - God Mode
 
