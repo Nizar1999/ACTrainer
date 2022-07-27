@@ -4,12 +4,12 @@
 
 ![Languages](https://img.shields.io/badge/-C++-%23CFACFF?style=for-the-badge&logo=cplusplus&logoColor=black) 
 
+## [Outdated]
+
 # Disclaimer
 Assault Cube is an open source game.
 
 This trainer only works and is to be used in offline mode
-
-## [Outdated]
 
 # Features
 - God Mode
